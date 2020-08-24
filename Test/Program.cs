@@ -22,6 +22,7 @@ namespace Test
             Console.WriteLine(">>>>>>>>>>>>>>");
             Console.WriteLine("我成功了！");
             Console.WriteLine( "我成功了！");
+            Console.WriteLine("我成功了！");
             Console.ReadLine();
 
         }
