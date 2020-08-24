@@ -23,6 +23,7 @@ namespace Test
             Console.WriteLine("我成功了！");
             Console.WriteLine( "我成功了！");
             Console.WriteLine("我成功了！");
+            Console.WriteLine("老哥来了！");
             Console.ReadLine();
 
         }
